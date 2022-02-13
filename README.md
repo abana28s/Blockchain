@@ -1,2 +1,2 @@
 # Blockchain
-A simple implementation of Blockchain
+A simple implementation of Blockchain in Javascript
